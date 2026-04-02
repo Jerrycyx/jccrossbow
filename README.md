@@ -1,6 +1,6 @@
-# TaCZ - JC's Crossbow
+# [TaCZ - JC's Crossbow](https://www.curseforge.com/minecraft/customization/tacz-jcs-crossbow)
 
-A [TaCZ (Timeless and Classics Zero)](https://modrinth.com/mod/timeless-and-classics-zero) gun pack that adds a **Compound Crossbow "Zero Point"**.
+A [TaCZ (Timeless and Classics Zero)](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero) gun pack that adds a **Compound Crossbow "Zero Point"**.
 
 **Please send issues on [Github](https://github.com/Jerrycyx/jccrossbow/issues)! Comments on CurseForge may not be noticed in a timely manner!**
 
