@@ -1,0 +1,17 @@
+{
+    "model": "jccrossbow:gun/compound_crossbow_geo",
+    "texture": "jccrossbow:gun/uv/compound_crossbow",
+    "slot": "jccrossbow:gun/slot/compound_crossbow",
+    "hud": "jccrossbow:gun/hud/compound_crossbow",
+    "animation": "jccrossbow:compound_crossbow",
+    "use_default_animation": "rifle",
+    "third_person_animation": "default",
+
+    "sounds": {
+        "draw": "tacz:ump45/ump45_draw",
+        "put_away": "tacz:ump45/ump45_put_away",
+        "reload_empty": "jccrossbow:compound_crossbow/compound_crossbow_reload_empty",
+        "shoot": "jccrossbow:compound_crossbow/compound_crossbow_shoot",
+        "shoot_3p": "jccrossbow:compound_crossbow/compound_crossbow_shoot"
+    }
+}

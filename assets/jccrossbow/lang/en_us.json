@@ -1,0 +1,9 @@
+{
+    "pack.jccrossbow.name": "Compound Crossbow",
+    "pack.jccrossbow.desc": "Add Compound Crossbow for TaCZ",
+
+    "jccrossbow.gun.compound_crossbow.name": "\"Zero Point\" Compound Crossbow",
+    "jccrossbow.gun.compound_crossbow.desc": "§oIn the name of cold steel...",
+
+    "jccrossbow.ammo.metal_arrow.name": "§dMetal Arrow"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "jccrossbow.gun.compound_crossbow.name",
+    "tooltip": "jccrossbow.gun.compound_crossbow.desc",
+    "display": "jccrossbow:compound_crossbow_display",
+    "data": "jccrossbow:compound_crossbow_data",
+    "type": "sniper",
+    "item_type": "modern_kinetic",
+    "sort": 10
+}

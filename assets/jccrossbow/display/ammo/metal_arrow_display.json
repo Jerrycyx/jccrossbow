@@ -1,0 +1,7 @@
+{
+  "slot": "jccrossbow:ammo/slot/metal_arrow",
+  "entity": {
+    "model": "jccrossbow:ammo_entity/metal_arrow_entity_geo",
+    "texture": "jccrossbow:gun/uv/compound_crossbow"
+  }
+}
